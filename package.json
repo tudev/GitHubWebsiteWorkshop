@@ -1,0 +1,22 @@
+{
+  "name": "githubwebsiteworkshop",
+  "version": "1.0.0",
+  "description": "A hands-on template repository for Temple University students to practice essential Git and GitHub skills. Created by TUDev, Temple's community of hackers and makers.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Git",
+    "GitHub",
+    "TUDev",
+    "Workshop"
+  ],
+  "author": "David Loder",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

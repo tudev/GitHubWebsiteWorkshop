@@ -1,6 +1,29 @@
-# Group Website Example
+## About This Workshop
 
-Welcome to the Group Website Example repository! This is a simple multi-page website built with HTML, CSS, and JavaScript. Use this project to practice Git and GitHub collaboration.
+This repository serves as an interactive learning environment where Temple students can practice fundamental Git workflows including:
+
+- Cloning repositories
+- Creating and switching branches
+- Making commits
+- Opening pull requests
+- Resolving merge conflicts
+- Collaborating with other developers
+
+## For Workshop Participants
+
+This template provides structured exercises that progressively build your Git skills. By completing these challenges, you'll gain practical experience with the tools and workflows used by software professionals every day.
+
+## For Workshop Leaders
+
+Fork this template to run your own Git workshops! The repository includes instructor notes and a complete workshop plan to help you guide students through a successful learning experience.
+
+## Why Git Matters
+
+Version control is an essential skill for any developer. This workshop introduces students to industry-standard practices in a supportive, hands-on environment. Whether you're new to coding or looking to refine your workflow, these exercises will help you collaborate more effectively on software projects.
+
+## About TUDev
+
+TUDev is Temple University's student organization of hackers and makers. We host workshops, hackathons, and other events to help Temple students build technical skills and connect with the tech community.
 
 ## Getting Started
 
